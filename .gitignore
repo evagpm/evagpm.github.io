@@ -9,3 +9,8 @@ Gemfile.lock
 node_modules
 package.json
 .jekyll-cache*
+notebooks/.ipynb_checkpoints/blog_post_1-*checkpoint.ipynb
+*.db
+_posts/2021-01-19-bp1.md
+_posts/2021-01-19-bp1.md
+_posts/2021-01-19-bp1.md
